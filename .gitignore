@@ -3,3 +3,10 @@ coverage/
 dist/
 node_modules/
 bower_components/
+!/dist/
+.idea/
+.idea/jsLibraryMappings.xml
+.idea/meansteve.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
