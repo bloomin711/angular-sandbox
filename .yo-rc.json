@@ -10,7 +10,7 @@
         "original": []
       },
       "framework": "angular1",
-      "modules": "webpack",
+      "modules": "inject",
       "css": "scss",
       "js": "babel",
       "ci": [
