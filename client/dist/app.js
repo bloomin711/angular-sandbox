@@ -1,0 +1,1 @@
+!function(e){"use strict";e.module("meansteve",["ngResource","ngRoute","ngMessages"])}(window.angular);

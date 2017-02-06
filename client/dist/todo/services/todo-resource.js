@@ -1,0 +1,1 @@
+!function(o){"use strict";o.module("meansteve").factory("TodoResource",["$resource",function(o){var e="/api/todos/:id",r={},n={};return o(e,r,n)}])}(window.angular);
